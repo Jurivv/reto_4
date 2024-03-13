@@ -2,7 +2,7 @@
 
 1. Dado un número entero, determinar si ese número corresponde al código ASCII de una vocal minúscula.
 ```python
-a = int(input("Digite un numero entero")
+a = int(input("Digite un numero entero"))
 if a > 97 and a < 122:
     print("El numero entero corresponde a una vocal minuscula en el codigo ASCII, es:"+(chr(a)))
 else:
@@ -72,7 +72,7 @@ else:
 
 5. Dado el centro y el radio de un círculo, determinar si un punto de R2 pertenece o no al interior del círculo.
 ```python
-radio = float(input("Digite un numero para el radio:")
+radio = float(input("Digite un numero para el radio:"))
 y1 = float(input("Digite un numero x1:"))
 x1 = float(input("Digite un numero y2:"))
 
