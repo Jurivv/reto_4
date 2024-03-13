@@ -92,7 +92,7 @@ else:
 
 6. Dadas tres longitudes positivas, determinar si con esas longitudes se puede construir un triángulo.
 ```python
-a = int(input("Digite un numero")
+a = int(input("Digite un numero"))
 b = int(input("Digite un numero"))
 c = int(input("Digite un numero"))
 
